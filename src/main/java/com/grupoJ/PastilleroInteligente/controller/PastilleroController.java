@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class PastilleroController {
 
-    @GetMapping("/pastillero")
-    public String consultarEstado() {
-        return "Pastillero inteligente: encendido (datos de demostracion)";
-    }
+	@GetMapping("/pastillero")
+	public String consultarEstado() {
+	    return "Pastillero inteligente: encendido, Wi-Fi conectado (datos de demostracion)";
+	}
 }
