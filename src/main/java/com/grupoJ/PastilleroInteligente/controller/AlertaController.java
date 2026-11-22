@@ -9,9 +9,11 @@ public class AlertaController {
 
     @GetMapping("/alertas")
     public String consultarAlertas() {
-
-        return "Alertas del pastillero: verde a la hora de toma, "
-                + "roja tras 30 min sin toma y naranja por bateria baja";
+        return "INFORMACION DE DEMOSTRACION: el pastillero utiliza "
+                + "una alerta verde a la hora de toma, roja tras "
+                + "30 minutos sin realizar la toma y naranja por "
+                + "bateria baja. Estos mensajes describen el "
+                + "funcionamiento previsto y no son alertas reales activas.";
     }
 }
 
