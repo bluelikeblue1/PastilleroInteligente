@@ -3,4 +3,5 @@
 Proyecto para la práctica de GitHub Flow con Spring Boot y Maven.
 - Wasim Mohamed Hadir
 - Germán Palomo de Miguel
+- Hamza Hassini El Mouhssine
 
