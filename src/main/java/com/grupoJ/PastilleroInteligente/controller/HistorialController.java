@@ -13,7 +13,8 @@ public class HistorialController {
              + "(DATOS DE DEMOSTRACION): "
              + "Toma 1 - Realizada a tiempo. "
              + "Toma 2 - Realizada con retraso. "
-             + "Toma 3 - Olvidada.";
+             + "Toma 3 - Olvidada."
+             + "Informacion simulada, sin conexion a una base de datos real.";
     }
 }
 
