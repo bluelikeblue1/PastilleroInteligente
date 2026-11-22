@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Pastillero Inteligente
 
 <<<<<<< HEAD
@@ -9,3 +10,10 @@ Integrante: Hamza
 =======
 - Wasim Mohamed Hadir 
 >>>>>>> 68effbfe55e04e4cdb6fc971290df861bb6b88e9
+=======
+# Pastillero Inteligente - Grupo J
+
+Proyecto para la práctica de GitHub Flow con Spring Boot y Maven.
+- Wasim Mohamed Hadir
+- Germán Palomo de Miguel
+>>>>>>> origin/main
